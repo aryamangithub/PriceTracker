@@ -1,4 +1,4 @@
-## Project Name: E-commerce Web Scraper with Python BeautifulSoup and ReactJS UI
+## Project Name: PriceTrackerE-commerce Web Scraper with Python BeautifulSoup and ReactJS UI
 
 ### Description:
 
